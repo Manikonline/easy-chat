@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.dashboard-section{
+    color: white;
+}
+.userImgg{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+}
+.flex{
+    display: flex;
+}
+.user-info{
+    margin-top: 5px;
+    
+}
+.info-section{
+    background-color: rgb(37, 37, 37);
+    height: 95vh;
+}
